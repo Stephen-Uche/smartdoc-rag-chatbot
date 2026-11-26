@@ -31,8 +31,8 @@ The chatbot will allow users to ask questions about a specific collection of doc
 
 | Course week | What I do |
 |---|---|
-| 1 | Learn the basics, write the plan |
-| 2 |  |
+| 1 | Learn the basics. |
+| 2 | write the plan and create repo - smartdoc-rag-chatbot |
 | 3 | ... |
 | 4 | ... |
 | 5 | ... |
@@ -48,5 +48,5 @@ The chatbot will allow users to ask questions about a specific collection of doc
 ## Changes
 
 | Date | What I changed | Why |
-|---|---|---|
-| | | |
+|---|---|---|---|
+|...|...|...|...|

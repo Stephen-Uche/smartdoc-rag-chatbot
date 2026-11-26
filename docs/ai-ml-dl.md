@@ -1,4 +1,6 @@
-# Fundamental Concepts in machine learning
+# AI Machine-Learning and Deep-Learning
+
+## Fundamental Concepts
 
 ### **1. Explain what AI, ML, and DL are, respectively, and how these concepts relate to one another.**
 
@@ -6,7 +8,7 @@
 - **ML (Machine Learning):** A branch of AI where computers learn patterns from data to make predictions without being explicitly programmed for every task.
 - **DL (Deep Learning):** A branch of ML that uses artificial neural networks with multiple layers to learn complex patterns, such as recognizing images and speech.
 
-**Relationship:** AI > ML > DL. 
+**Relationship:** AI > ML > DL
 ML is a subset of AI
 DL is a subset of M
 
